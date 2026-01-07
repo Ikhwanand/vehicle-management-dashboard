@@ -28,8 +28,8 @@ Sistem ini memungkinkan perusahaan tambang nikel untuk:
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
-cd nikel-app
+git clone [vehicle-management-dashboard](https://github.com/Ikhwanand/vehicle-management-dashboard)
+cd vehicle-management-dashboard
 ```
 
 ### 2. Install Dependencies
