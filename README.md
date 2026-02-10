@@ -28,7 +28,7 @@ Sistem ini memungkinkan perusahaan tambang nikel untuk:
 ### 1. Clone Repository
 
 ```bash
-git clone [vehicle-management-dashboard](https://github.com/Ikhwanand/vehicle-management-dashboard)
+git clone https://github.com/Ikhwanand/vehicle-management-dashboard
 cd vehicle-management-dashboard
 ```
 
@@ -211,8 +211,6 @@ php artisan optimize:clear
 4. Export Excel membutuhkan package `maatwebsite/excel`
 
 ## 📄 Lisensi
-
-Aplikasi ini dikembangkan untuk keperluan Technical Test.
 
 ---
 
